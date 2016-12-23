@@ -26,7 +26,7 @@ The script can be executed using the following command:
 python happiest_state.py <sentiment_file> <tweet_file>
 ```
 
-## Top ten hash tags
+## Top ten hash tags (top_ten.py)
 This script computes the ten most frequently occuring hash tags from the data in the tweet_file.
 
 The script can be executed using the following command:
